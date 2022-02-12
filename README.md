@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sweta Swarnakar</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<p>I always have had a passion for technologies which resulted into me choosing web development. I am Skilled full-stack developer looking to associate with a progressive organization to hone my technical skills and grow professionally.</p>
+<p>I always have had a passion for technologies which resulted into me choosing web development. I am Skilled full-stack developer looking to associate with a progressive organization to hone my technical skills and grow professionally.My hobbies are sloving rubik's cube and reading manga</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta-swarnakar&label=Profile%20views&color=0e75b6&style=flat" alt="sweta-swarnakar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sweta-swarnakar" alt="sweta-swarnakar" /></a> </p>
