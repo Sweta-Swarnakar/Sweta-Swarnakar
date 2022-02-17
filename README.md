@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sweta-Swarnakar?tab=repositories](https://github.com/Sweta-Swarnakar?tab=repositories)
 
-- 📝 I write articles on my project [https://inceptum-stor.icons8.com/a2WmNGNjnaY4/hashnode1.jpg](https://hashnode.com/@sweta90)
+- 📝 I write articles on my project [https://www.svgrepo.com/show/353859/hashnode-icon.svg](https://hashnode.com/@sweta90)
 
 - 💬 Ask me about **react, node.js, javascript**
 
