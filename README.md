@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sweta-swarnakar" alt="sweta-swarnakar" /></a> </p>
 
-- 🌱 I’m currently learning **React, Webpack, MongoDb**
+- 🌱 I’m am skilled at **React, emberJs, Webpack, MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sweta-Swarnakar?tab=repositories](https://github.com/Sweta-Swarnakar?tab=repositories)
 
 - 📝 I write articles on my project[https://www.svgrepo.com/show/353859/hashnode-icon.svg](https://hashnode.com/@sweta90)
 - Take a look at my portfolio at https://portfolio-sweta.netlify.app/
 
-- 💬 Ask me about **react, node.js, javascript**
+- 💬 Ask me about **react, node.js, javascript, Ember.js**
 
 - 📫 How to reach me **swarnakarsweta@gmail.com**
 
